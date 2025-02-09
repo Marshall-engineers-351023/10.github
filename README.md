@@ -1,2 +1,7 @@
-# 10.github
-no:label
+-
+- # 10.github
+-
+- no:label
+-
+-
+- docker pull ghcr.io/linkerd/proxy:sha256-20feb3ac05f191313ea7011f06051e253a19e142b105c6fce36ac6595a84e358.sig
