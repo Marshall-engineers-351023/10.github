@@ -2,7 +2,7 @@
 - #1001.github
 -
 - no:label crypto currency 💱 
--
+- 0xBceB0779a71d94563EE22cCD7F4FadBf718259dF
 -
 - docker pull ghcr.io/linkerd/proxy:sha256-20feb3ac05f191313ea7016f0051e253a19e142b105c6fce36ac6595a84ex358.sig'$
 -
